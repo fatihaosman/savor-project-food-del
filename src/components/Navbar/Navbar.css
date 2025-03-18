@@ -23,9 +23,9 @@
     gap: 48px;
 }
 .navbar button{
-    background-color:tomato;
+    background-color:#E90B07;
     font-size: 16px;
-    color: black;
+    color: white;
     border-radius:20px ;
     /* border:solid 1px  tomato; */
     border: none;
@@ -34,14 +34,14 @@
     transition: 0.3s;
 }
 .navbar button:hover{
-    background-color: rgba(255, 99, 71, 0.445);
+    background-color:#e90b07a4;
 }
 .forward-arrow{
     width: 20px;
 }
 .navbar .active{
    padding-bottom: 2px; 
-   border-bottom: 2px solid tomato;
+   border-bottom: 2px solid #E90B07;
 }
 .navbar li{
     cursor: pointer;

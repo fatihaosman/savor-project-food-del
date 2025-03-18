@@ -121,7 +121,7 @@ export const food_list = [
         _id: "4",
         name: "Mahamari",
         image: food_4,
-        price: 24,
+        price: 20,
         description: "Food provides essential nutrients for overall health and well-being",
         // category: "Salad"
     }, {
